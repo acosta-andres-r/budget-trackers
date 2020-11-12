@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "build": "webpack",
-    "webpack": "webpack",
-    "prestart": "npm run webpack",
     "lite-server": "lite-server"
   },
   "repository": {
