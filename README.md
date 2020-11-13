@@ -6,7 +6,7 @@
 </div>
   
 ### Description
-With this application, you will be able to log transactions to be display in a chart. All the functionalities were created by using Webpack, MongoDB, Node, Express, JavaScript, and HTML.
+With this application, you will be able to log transactions and display them in a chart. All the functionalities were created by using Webpack, MongoDB, Node, Express, JavaScript, and HTML.
 
 ### Table of Contents
 
